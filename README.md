@@ -8,7 +8,7 @@ Python Program to check Slot Availability every 5 secs, sends telegram alerts  w
 - Finds slots upto 5 dates.
 
 ## Set Up
-- Paste Telegram BotID in [config.py]()
+- Paste Telegram BotID in [/config.py]()
 - Add Users in [DB.py](/Database/DB.py)
 
 ## Run
